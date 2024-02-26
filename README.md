@@ -1,7 +1,7 @@
 <h1>Telephone Price Range Determination Accuracy : %97 </h1>
 The aim of this project is to determine the price level at which a phone can be sold, taking into account its features.
-project dataset : https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/code
-
+<br>project dataset : https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/code </br>
+ 
 <h2>Overview</h2>
 
 ![sv](https://github.com/omerkrkcc/BankApplication/assets/92057033/4e22cd4f-0010-4f34-ae69-70aea72cef42)
