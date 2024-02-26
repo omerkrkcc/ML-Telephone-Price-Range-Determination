@@ -1,6 +1,6 @@
 <h1>Telephone Price Range Determination Accuracy : %97 </h1>
 The aim of this project is to determine the price level at which a phone can be sold, taking into account its features.
-
+project dataset : https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/code
 
 <h2>Overview</h2>
 
@@ -19,11 +19,6 @@ The aim of this project is to determine the price level at which a phone can be 
 <br> 8. Graphical representation of the best classification performance for each model
 <br> 9. Determining the price scale according to the amount of ram
 <br> 10.Impact of Processor Core Count and RAM on the price scale
-
-<h2>Technologies Used </h2>
-
-<br>• C# Form</br>
-<br>• DevExpress</br>
 
 <h2>Business Problem</h2> 
 
